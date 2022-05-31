@@ -5,6 +5,12 @@ DLocker is a Digital Locker for Students to ease out carrying documents for offi
 ![GitHub last commit](https://img.shields.io/github/last-commit/mohitkhedkar/DLocker?style=for-the-badge&color=mediumgreen)
 ![Languages](https://img.shields.io/github/languages/count/mohitkhedkar/DLocker?style=for-the-badge)
 
+### Contibutors
+1. [Mohit Khedkar](https://github.com/mohitkhedkar).
+2. [Rutuja Kondhare](https://github.com/rutujak11).
+3. [Ankan Biswas](https://github.com/mohitkhedkar/DLocker).
+4. [Shreya Paramane](https://github.com/ShreyaParamne).
+
 
 ## License 
 ```
