@@ -106,8 +106,8 @@
           "builder": "@netlify-builder/deploy:deploy",
           "options": {
             "outputPath": "dist/d-locker",
-            "netlifyToken": "jpL8Ii0o-JEehEYtPVMvmlKbVNlD4DEa1IL5q99nagc",
-            "siteId": "a8f91f5a-18f9-4b6e-899e-a72fc76c5921"
+            "netlifyToken": "aCm8r5hupfnTDx4aC5FhZrj_KgFP4f-MSGcjCLMgRXs",
+            "siteId": "96908218-088c-4358-ae77-fd11a6335946"
           }
         }
       }
