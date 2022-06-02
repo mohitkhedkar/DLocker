@@ -101,6 +101,14 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "@netlify-builder/deploy:deploy",
+          "options": {
+            "outputPath": "dist/d-locker",
+            "netlifyToken": "jpL8Ii0o-JEehEYtPVMvmlKbVNlD4DEa1IL5q99nagc",
+            "siteId": "a8f91f5a-18f9-4b6e-899e-a72fc76c5921"
+          }
         }
       }
     }
